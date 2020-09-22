@@ -1,3 +1,7 @@
+
+@valerio version
+
+
 # Dell EMC Networking OS10 Ansible Automation for VxLAN Symmetric IRB, Unnumbered BGP and Type-5 Routes Leaf & Spine CLOS fabric
 ================================================================================================================================
 This example shows configuration for 2 sites with VxLAN Symmetric IRB, Unnumbered BGP and Type-5 Routes Leaf & Spine model
