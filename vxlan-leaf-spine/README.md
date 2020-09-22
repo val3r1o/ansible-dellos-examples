@@ -1,8 +1,9 @@
 
 @valerio version
 
+trying to move unnumbered BGP configuration from VLAN to Interface.
 
-# Dell EMC Networking OS10 Ansible Automation for VxLAN Symmetric IRB, Unnumbered BGP and Type-5 Routes Leaf & Spine CLOS fabric
+Dell EMC Networking OS10 Ansible Automation for VxLAN Symmetric IRB, Unnumbered BGP and Type-5 Routes Leaf & Spine CLOS fabric
 ================================================================================================================================
 This example shows configuration for 2 sites with VxLAN Symmetric IRB, Unnumbered BGP and Type-5 Routes Leaf & Spine model
 * Anycast gateway is configured for default gateway redundancy for virtual network 
