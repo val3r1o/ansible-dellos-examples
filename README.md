@@ -25,8 +25,3 @@ Example for dellos10_config module. This configures th ehostname for the OS10 de
 
 # Notes
 - For Ansible 2.5 and devel, use master branch
-
-# Contact
-Send general comments and feedback to: feedback-ansible-dell-networking@dell.com
-
-(c) 2017 Dell Inc. and its subsidiaries. All Rights Reserved.
