@@ -1,5 +1,5 @@
 ---
-hostname: leaf2
+hostname: leaf4
 dellos_system:
   hostname: "VLT2-SEC"
 
