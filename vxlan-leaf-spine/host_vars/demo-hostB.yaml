@@ -1,7 +1,7 @@
 ---
-hostname: Host2 
+hostname: HostB
 dellos_system:
-  hostname: "Host2"
+  hostname: "HostB"
 
 dellos_interface:
   port-channel 10:
