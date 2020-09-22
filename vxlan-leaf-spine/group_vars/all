@@ -1,3 +1,2 @@
-#Basic info to access OS10 - default
 ansible_ssh_user: admin
 ansible_ssh_pass: admin
