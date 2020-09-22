@@ -1,7 +1,0 @@
-hostname: dellos10_sw1
-
-# parametes for connection type network_cli
-ansible_ssh_user: xxxxx
-ansible_ssh_pass: xxxxx
-ansible_network_os: dellos10
-
